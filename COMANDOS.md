@@ -1,13 +1,7 @@
-## Alumno5 - Paco
-- `git checkout main` - Cambiar a rama principal
-- `git pull origin main` - Sincronizar con remoto
-- `git checkout -b alumno5` - Crear nueva rama
-- `git add .\` - Añadir todos los cambios
-- `git commit -m "Contribución de Alumno5"` - Commit final
-- `git push origin alumno5` - Push de la rama
+# Alumno1 - Miguel
+# Comandos Utilizados en la Práctica
 
-## Comandos de Sincronización y Merge
-- `git merge main` - Fusionar main en rama actual
-- `git rebase main` - Rebasar rama sobre main (alternativa)
-- `git log --oneline --graph` - Ver historial gráfico
-- `git branch -a` - Ver todas las ramas (locales y remotas)
+- `git checkout -b alumno1` - Crear y cambiar a rama alumno1
+- `git add .` - Añadir todos los archivos al staging
+- `git commit -m "Contribución de Alumno1: perfil y documentación"` - Hacer commit
+- `git push origin alumno1` - Subir rama al repositorio remoto
