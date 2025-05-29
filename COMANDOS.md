@@ -1,3 +1,4 @@
+## Comandos Utilizados
 ## Alumno4 - Everardo
 - `git checkout main` - Cambiar a rama principal
 - `git pull origin main` - Sincronizar con remoto
